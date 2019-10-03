@@ -3,12 +3,13 @@
 
 Fill in your personal information, stage the changes, and commit with a meaningful commit message.  Then push the commit to the remote repository.
 
-* Name:
+* Name: Merle-Sophie Wülbers
 
-* LSE ID:
+* LSE ID:201946843
 
-* LSE email address:
+* LSE email address:m.m.wulbers@lse.ac.uk
 
-* Programme:
+* Programme: MSc Applied Social Data Science
 
 * (Optional) Personal website:
+
